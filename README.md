@@ -10,7 +10,7 @@ xarm_gazebo.zip:
 
 In order to use this project, you should replace the whole xarm_gazebo pkg from xarm_ros.
 
-The hand.zip  includes a launchfile wich run the whole simulation:
+The hand.zip  includes a launchfile wich runs the whole simulation:
 `````roslaunch hand robot_hand.launch
 
 https://drive.google.com/file/d/12biMAaxAdLywPSM6WyolW0Z4LfllieCG/view?usp=sharing
